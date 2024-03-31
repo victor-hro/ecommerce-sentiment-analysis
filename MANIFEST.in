@@ -1,0 +1,12 @@
+include *.txt
+include *.md 
+include *.py
+recursive-include ./src/*
+recursive-include ./csv/*
+
+
+incude src/VERSION
+include src/config/*.py 
+
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
