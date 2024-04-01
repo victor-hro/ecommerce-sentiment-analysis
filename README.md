@@ -53,7 +53,7 @@ pip install -e .
 1. Clone este repositório para sua máquina local.
 2. Navegue até o diretório onde o repositório foi clonado.
 3. Instale as dependências do projeto executando o comando `pip install -r requirements.txt`.
-4. Execute o web app usando o comando `streamlit run app.py`.
+4. Execute o web app usando o comando `streamlit run src/app.py`.
 5. O web app será aberto em seu navegador padrão.
 6. Insira o nome do produto e seu comentário no formulário apresentado.
 7. Clique no botão "Enviar Dados" para submeter os dados e visualizar a previsão de sentimento.
