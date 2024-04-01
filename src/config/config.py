@@ -9,6 +9,11 @@ PACKAGE_ROOT = pathlib.Path(src.__file__).resolve().parent
 DATAPATH = os.path.join(PACKAGE_ROOT, "data")
 TRAINPATH = os.path.join(DATAPATH, 'train.csv')
 TESTPATH = os.path.join(DATAPATH, 'test.csv')
+SITE_PREDICTIONS_DATASET = os.path.join(DATAPATH, 'site_predictions.csv')
+SITE_OUTPUT_DATASET = os.path.join(DATAPATH, 'site_output.csv')
+
+
+
 MODELPATH = os.path.join(PACKAGE_ROOT, "saved_models")
 
 DATASETPATH = os.path.join(DATAPATH, 'olist_order_reviews_dataset.csv')
