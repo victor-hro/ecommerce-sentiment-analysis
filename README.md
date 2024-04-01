@@ -55,3 +55,11 @@ pip install -e .
 5. O web app será aberto em seu navegador padrão.
 6. Insira o nome do produto e seu comentário no formulário apresentado.
 7. Clique no botão "Enviar Dados" para submeter os dados e visualizar a previsão de sentimento.
+
+--
+
+<p align="center">
+  <img src="images/app.png" alt="web app" />
+</p>
+
+--
