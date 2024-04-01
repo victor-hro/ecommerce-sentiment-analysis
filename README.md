@@ -1,7 +1,9 @@
-Claro! Aqui está o README atualizado com as informações sobre o web app do Streamlit:
 
-```markdown
 # Olist Sentiment Analysis
+
+<p align="center">
+  <img src="images/app.png" alt="web app" />
+</p>
 
 ## Descrição do Projeto
 
@@ -56,10 +58,3 @@ pip install -e .
 6. Insira o nome do produto e seu comentário no formulário apresentado.
 7. Clique no botão "Enviar Dados" para submeter os dados e visualizar a previsão de sentimento.
 
---
-
-<p align="center">
-  <img src="images/app.png" alt="web app" />
-</p>
-
---
