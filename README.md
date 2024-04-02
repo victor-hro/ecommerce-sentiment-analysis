@@ -138,4 +138,3 @@ Para subir a imagem Docker para o Docker Hub e depois executá-la em uma instân
 
 6. **Acesse a aplicação:**
    Acesse a aplicação em seu navegador web em `http://ip-da-sua-instancia:8501`.
-```
