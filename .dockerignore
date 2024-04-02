@@ -1,0 +1,10 @@
+# Pastas de ambiente virtual Python
+venv/
+.env/
+
+# Arquivos de cache
+__pycache__/
+
+# Arquivos de configuração específicos do sistema
+.DS_Store
+Thumbs.db
